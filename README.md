@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm ZeldaFan</h1>
+<h1>
+  <img src="https://raw.githubusercontent.com/ZeldaFan0225/ZeldaFan0225/main/header.png">
+</h1>
 <h3 align="center">A computer science student and developer of random stuff.</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeldaFan0225&theme=dark&layout=compact" alt="zeldafan0225" /></p>
