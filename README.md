@@ -3,10 +3,10 @@
 </h1>
 <h3 align="center">I'm a computer science student and developer of random stuff.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeldaFan0225&theme=dark&layout=compact" alt="zeldafan0225" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ZeldaFan0225&show_icons=true&theme=dark&border_radius=8&include_all_commits=true" alt="zeldafan0225" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeldaFan0225&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&border_radius=8&include_all_commits=true" alt="zeldafan0225" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeldaFan0225&theme=dark&layout=compact" alt="zeldafan0225" /></p>
+<br>
 <p><img align="center" src="https://streak-stats.demolab.com?user=ZeldaFan0225&theme=dark&border_radius=8&date_format=j%20M%5B%20Y%5D&background=45%2C00B3FF%2CE55977&dates=D8D8D8&card_width=1000" alt="zeldafan0225" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
