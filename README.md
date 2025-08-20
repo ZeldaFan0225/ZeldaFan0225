@@ -1,15 +1,59 @@
-<h1>
-  <img src="https://raw.githubusercontent.com/ZeldaFan0225/ZeldaFan0225/main/header.png">
-</h1>
-<h3 align="center">I'm a computer science student and developer of random stuff.</h3>
+<img src="https://raw.githubusercontent.com/ZeldaFan0225/ZeldaFan0225/main/header.png">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ZeldaFan0225&show_icons=true&theme=dark&border_radius=8&include_all_commits=true" alt="zeldafan0225" /></p>
+## About Me
+I'm a passionate full-stack developer from Europe with a strong focus on AI integrations, web development, and building practical tools. I enjoy solving complex problems and exploring new technologies across different domains.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeldaFan0225&theme=dark&layout=compact" alt="zeldafan0225" /></p>
-<br>
-<p><img align="center" src="https://streak-stats.demolab.com?user=ZeldaFan0225&theme=dark&border_radius=8&date_format=j%20M%5B%20Y%5D&background=45%2C00B3FF%2CE55977&dates=D8D8D8&card_width=1000" alt="zeldafan0225" /></p>
-<br>
-<a src="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=zeldafan0225&theme=darkhub" alt="zeldafan0225" /></a>
+## Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<!--h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p-->
+## What I'm Working On
+- **AI & Machine Learning**: Building intelligent applications with various LLM APIs and embedding models
+- **Web Development**: Creating responsive web applications and browser extensions
+- **Problem Solving**: Participating in coding challenges like Advent of Code with multiple programming languages
+- **Practical Tools**: Developing utilities for productivity, gaming, and everyday use
+- **API Development**: Building and integrating with various APIs and services
+
+## Featured Projects
+
+### [AI Horde Integration](https://github.com/ZeldaFan0225/ai_horde)
+A TypeScript package for seamless interaction with the AI Horde API, making distributed AI generation accessible to developers.
+- **Tech Stack**: TypeScript, Node.js, AI Horde API
+- **Features**: Stable diffusion integration, queue management, developer-friendly interface
+
+### [Discord AI Chat Bot](https://github.com/ZeldaFan0225/DiscordAIChatBot)
+A modular Discord bot that can connect to any LLM API, providing flexible AI conversations for Discord communities.
+- **Tech Stack**: TypeScript, Discord.js, Multiple LLM APIs
+- **Features**: Multi-API support, provider flexibility, conversation memory, easy configuration
+
+### [Advent of Code Solutions](https://github.com/ZeldaFan0225/Advent-of-Code-TS)
+My solutions to programming challenges, showcasing problem-solving skills across multiple languages.
+- **Languages**: TypeScript, Rust, Python
+- **Focus**: Algorithm optimization, clean code practices, performance analysis
+
+## GitHub Stats
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZeldaFan0225&show_icons=true&theme=dark&border_radius=8&include_all_commits=true" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeldaFan0225&theme=dark&layout=compact&border_radius=8" alt="Top Languages" style="max-width: 100%; height: auto;" />
+  </div>
+  <div style="margin: 30px 0;">
+    <img src="https://streak-stats.demolab.com?user=ZeldaFan0225&theme=dark&border_radius=8&date_format=j%20M%5B%20Y%5D&background=45%2C00B3FF%2CE55977&dates=D8D8D8&card_width=800" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+  </div>
+  <div style="margin-top: 30px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=ZeldaFan0225&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
+  </div>
+</div>
+
+## Current Focus
+- Exploring advanced AI model integrations and embeddings
+- Building modern web applications with TypeScript and React
+- Solving algorithmic challenges in multiple programming languages
+- Creating developer tools and productivity applications
+- Contributing to open-source projects
