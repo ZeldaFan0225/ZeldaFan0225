@@ -40,16 +40,16 @@ My solutions to programming challenges, showcasing problem-solving skills across
 
 ## GitHub Stats
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <!--div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=ZeldaFan0225&show_icons=true&theme=dark&border_radius=8&include_all_commits=true" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeldaFan0225&theme=dark&layout=compact&border_radius=8" alt="Top Languages" style="max-width: 100%; height: auto;" />
-  </div>
+</div-->
   <div style="margin: 30px 0;">
     <img src="https://streak-stats.demolab.com?user=ZeldaFan0225&theme=dark&border_radius=8&date_format=j%20M%5B%20Y%5D&background=45%2C00B3FF%2CE55977&dates=D8D8D8&card_width=800" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
   </div>
-  <div style="margin-top: 30px;">
+  <!--div style="margin-top: 30px;">
     <img src="https://github-profile-trophy.vercel.app/?username=ZeldaFan0225&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
-  </div>
+</div-->
 </div>
 
 ## Current Focus
